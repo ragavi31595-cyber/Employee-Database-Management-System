@@ -25,12 +25,6 @@ employee
   - ALTER
   - UPDATE
   - DELETE
-  - SELECT
-  - WHERE
-  - ORDER BY
-  - GROUP BY
-  - JOIN (if applicable)
-
 ## Files Included
 - Employee_Assignment.sql – Contains all SQL scripts.
 - README.md – Project documentation.
