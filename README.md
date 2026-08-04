@@ -46,6 +46,7 @@ employee
 - Employee_Assignment.sql – Contains all SQL scripts.
 - Employee Assignment2.sql-Contains all SQL scripts.
 - README.md – Project documentation.
+[DDL Commands.pdf](https://github.com/user-attachments/files/30704686/DDL.Commands.pdf)
 
 ## Software Used
 - MySQL Workbench 8.0
