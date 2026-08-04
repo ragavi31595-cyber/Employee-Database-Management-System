@@ -15,6 +15,7 @@ employee
 
 ## Features
 - Created database using MySQL.
+- Insert sample employee data.
 - Created tables with Primary Key and Foreign Key constraints.
 - Established relationships between tables.
 - Applied data types and constraints.
@@ -25,8 +26,25 @@ employee
   - ALTER
   - UPDATE
   - DELETE
+  - Filter data using WHERE, AND, LIKE, and IS NULL.
+  -Update records using UPDATE.
+  -Sort records using ORDER BY.
+  -Limit results using LIMIT.
+  -Perform aggregate functions such as SUM, AVG, MIN, MAX, and COUNT.
+  -Group data using GROUP BY and HAVING.
+  -Implement different types of joins:
+    -INNER JOIN
+    -LEFT JOIN
+    -RIGHT JOIN
+    -CROSS JOIN
+    -SELF JOIN
+  -Use Window Functions:
+  -RANK()
+  -DENSE_RANK()
+  -SUM() OVER()
 ## Files Included
 - Employee_Assignment.sql – Contains all SQL scripts.
+- Employee Assignment2.sql-Contains all SQL scripts.
 - README.md – Project documentation.
 
 ## Software Used
@@ -36,5 +54,7 @@ employee
 1. Open MySQL Workbench.
 2. Connect to the MySQL server.
 3. Open the Employee_Assignment.sql file.
-4. Execute the script using the Execute button (⚡).
-5. Verify the database and tables under the Schemas panel.
+  
+
+5. Execute the script using the Execute button (⚡).
+6. Verify the database and tables under the Schemas panel.
